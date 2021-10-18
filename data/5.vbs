@@ -1,0 +1,1 @@
+x=msgbox("STEP 1 : Lose Ur Internet", 0+48, "Warning")

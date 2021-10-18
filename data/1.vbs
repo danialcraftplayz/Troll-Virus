@@ -1,0 +1,1 @@
+x=msgbox("Hey Buddy", 0+48, "Warning")

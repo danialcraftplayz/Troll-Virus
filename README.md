@@ -1,6 +1,6 @@
 # Troll-Virus
 
-**THIS UR OWN RISK **
+**THIS UR OWN RISK**
 
 This Is Virus
 
